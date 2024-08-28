@@ -72,10 +72,5 @@ If you'd like to contribute to the project:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any questions or feedback, please contact [your email address].
-
----
 
 **Note**: Ensure that you have the necessary permissions and licenses for any third-party tools or libraries you use.
